@@ -33,8 +33,9 @@ An evolving list of educational materials, tools, and codebases related to Quant
 ## 🎙️ 5. Videos, Podcasts, and Courses
 
 ### 5.1 YouTube channels and playlists
-### 5.2 Online courses (free and paid)
+### 5.2 Online courses (free)
 ### 5.3 Open lectures and university content
+### 5.4 Online courses (paid)
 
 ## 📈 6. Data Sources and APIs
 
