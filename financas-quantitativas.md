@@ -49,6 +49,63 @@ Uma curadoria contínua de materiais para aprender Finanças Quantitativas, volt
 ## 📈 6. Dados e APIs
 
 ### 6.1 Fontes públicas e gratuitas
+
+**[Yahoo Finance (yfinance)](https://finance.yahoo.com)**  
+   - Tipo de dado: Ações, índices, fundos, moedas, históricos.  
+   - Acesso: Principal API via biblioteca Python [`yfinance`](https://pypi.org/project/yfinance)
+
+ **[Alpha Vantage](https://www.alphavantage.co)**  
+   - Tipo de dado: Ações globais, câmbio, criptomoedas, indicadores técnicos.  
+   - Acesso: API (necessita chave gratuita)
+
+ **[Investing.com](https://www.investing.com)**  
+   - Tipo de dado: Ações, índices, commodities, moedas, notícias.  
+   - Acesso: Web scraping ou APIs de terceiros (ex: forks do `investpy`)
+
+**[Banco Central do Brasil (BACEN - SGS API)](https://dadosabertos.bcb.gov.br)**  
+   - Tipo de dado: Juros, câmbio, inflação, dados macroeconômicos.  
+   - Acesso: API oficial ([https://api.bcb.gov.br](https://api.bcb.gov.br))
+
+**[Quandl (Nasdaq Data Link)](https://data.nasdaq.com)**  
+   - Tipo de dado: Macroeconomia, dados financeiros, taxas.  
+   - Acesso: API gratuita com limitação
+
+**[Open Exchange Rates](https://openexchangerates.org)**  
+   - Tipo de dado: Cotações de moedas.  
+   - Acesso: API (plano gratuito com limitações)
+
+**[Finnhub](https://finnhub.io)**  
+    - Tipo de dado: Ações, moedas, criptos, notícias, fundamentos.  
+    - Acesso: API com plano gratuito
+
+**[Polygon.io](https://polygon.io)**  
+    - Tipo de dado: Ações, opções, câmbio, criptomoedas.  
+    - Acesso: API (plano gratuito limitado)
+
+**[FRED - Federal Reserve Economic Data](https://fred.stlouisfed.org)**  
+    - Tipo de dado: Dados econômicos dos EUA (PIB, inflação, taxa de juros, desemprego).  
+    - Acesso: API gratuita
+
+**[IBGE - Instituto Brasileiro de Geografia e Estatística](https://www.ibge.gov.br)**  
+    - Tipo de dado: PIB, inflação, desemprego, censos, séries históricas brasileiras.  
+    - Acesso: API pública e downloads
+
+**[CoinGecko](https://www.coingecko.com)**  
+    - Tipo de dado: Criptomoedas, cotações, volumes, históricos.  
+    - Acesso: API gratuita, necessita de cadastro
+
+**[BACEN - PTAX e Câmbio Diário](https://www.bcb.gov.br/estabilidadefinanceira/historicocotacoes)**  
+    - Tipo de dado: PTAX, taxas de câmbio comercial e turismo.  
+    - Acesso: Arquivos CSV ou API SGS
+
+**[CVM - Comissão de Valores Mobiliários](https://www.gov.br/cvm)**  
+    - Tipo de dado: Informações financeiras de empresas, fundos, balanços, XBRL.  
+    - Acesso: Web, XML e dados abertos
+
+ **[Fundamentus](http://fundamentus.com.br/)**  
+    - Tipo de dado: Dados fundamentalistas de ações brasileiras (P/L, ROE, DY etc.).  
+    - Acesso: Via scraping (não possui API oficial)
+
 ### 6.2 Bancos de dados econômicos
 
 ## 🧑‍🤝‍🧑 7. Comunidade e networking
