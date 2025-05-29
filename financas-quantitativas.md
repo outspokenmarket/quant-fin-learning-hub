@@ -44,7 +44,7 @@ Uma curadoria contínua de materiais para aprender Finanças Quantitativas, volt
 ### 5.3 Aulas universitárias abertas
 ### 5.4 Cursos online pagos
 ### 5.5 Podcasts
-**Outspoen Market Podcast** - [Ouça no YouTube](https://www.youtube.com/watch?v=C3Evs4ROKw8&list=PLudZsmb7OiyAK98IAv_rVdOtxxBMqQAoy)
+**Outspoken Market Podcast** - [Ouça no YouTube](https://www.youtube.com/watch?v=C3Evs4ROKw8&list=PLudZsmb7OiyAK98IAv_rVdOtxxBMqQAoy)
 
 ## 📈 6. Dados e APIs
 
