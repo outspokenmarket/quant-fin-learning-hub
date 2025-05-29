@@ -6,6 +6,9 @@ Uma curadoria contínua de materiais para aprender Finanças Quantitativas, volt
 
 ## 🧭 1. Por onde começar
 - Introdução às finanças quantitativas
+
+  **Outspoken Market**: Finanças Quantitativas - [Assista no YouTube](https://www.youtube.com/watch?v=6FuxBxxE1BY&list=PLudZsmb7OiyAGXp-oUohZAOVDmUUfJEwd)
+
 - Matemática e estatística básica para mercado financeiro
 - Roteiro de estudos
 
