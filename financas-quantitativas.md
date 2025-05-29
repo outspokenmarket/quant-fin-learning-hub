@@ -35,7 +35,8 @@ Uma curadoria contínua de materiais para aprender Finanças Quantitativas, volt
 ### 5.1 YouTube e playlists em português
 ### 5.2 Cursos online gratuitos e pagos
 **Outspoken Market: Curso de Python para Finanças Quantitativas** - [Assista no YouTube](https://www.youtube.com/watch?v=ejXPBwVyHTw&list=PLudZsmb7OiyCANQJ_hQ-9Y_ghqpeFMVMB)
-**Outspoken Market: Curso de R para Finanças Quantitativas** - [Assista no YouTube](https://www.youtube.com/watch?v=tJr_krsgAxc&list=PLudZsmb7OiyBmHA6gZFi1-D1auqCVIMWl)
+
+**Outspoken Market: Curso de R para Finanças Quantitativas** - [Assista no YouTube](https://www.youtube.com/watch?)v=tJr_krsgAxc&list=PLudZsmb7OiyBmHA6gZFi1-D1auqCVIMWl)
 
 ### 5.3 Aulas universitárias abertas
 
