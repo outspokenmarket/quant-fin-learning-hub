@@ -1,6 +1,6 @@
 # 📊 Recursos de Finanças Quantitativas (em Português)
 
-Uma curadoria contínua de materiais para aprender Finanças Quantitativas, voltada para estudantes, pesquisadores, traders e curiosos. Aqui você encontrará desde conceitos estatísticos fundamentais até estratégias automatizadas aplicadas em mercados reais.
+Uma curadoria contínua de materiais para aprender Finanças Quantitativas, voltada para estudantes, pesquisadores, traders e curiosos. Aqui você encontrará desde conceitos estatísticos fundamentais até estratégias automatizadas aplicadas em quaisquer mercados.
 
 ---
 
