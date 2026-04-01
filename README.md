@@ -7,7 +7,7 @@
 ## 📌 About this project
 
 This repository gathers useful content for those studying, working with, or exploring quantitative finance.  
-It includes math, statistics, programming, factor-based strategies, and applied machine learning.
+It includes math, statistics, programming, factor-based strategies, and applied machine learning. 
 
 ---
 
